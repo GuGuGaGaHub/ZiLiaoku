@@ -1,0 +1,11 @@
+# 网站
+* yuncode：https://yuncode.net/
+* https://github.com/jobbole/awesome-python-cn
+* https://github.com/vinta/awesome-python
+* https://github.com/jobbole/awesome-python-cn
+* https://github.com/trananhkma/fucking-awesome-python
+* https://github.com/mahmoud/awesome-python-applications
+* https://github.com/bharathgs/Awesome-pytorch-list
+* https://github.com/timofurrer/awesome-asyncio
+* https://github.com/markusschanta/awesome-jupyter
+* https://github.com/Junnplus/awesome-python-books
