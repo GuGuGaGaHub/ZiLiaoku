@@ -1,5 +1,5 @@
 # 网站
-* yuncode：https://yuncode.net/
+* https://yuncode.net/
 * https://github.com/jobbole/awesome-python-cn
 * https://github.com/vinta/awesome-python
 * https://github.com/jobbole/awesome-python-cn
