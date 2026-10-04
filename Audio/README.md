@@ -4,3 +4,4 @@
 + [Go Music DL](https://github.com/guohuiyuan/go-music-dl)
 
 + [TG-时光音乐](https://t.me/FU_Ject)
++ [Let's Music](https://t.me/VmomoVBot)
